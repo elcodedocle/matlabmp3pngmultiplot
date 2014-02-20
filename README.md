@@ -3,7 +3,7 @@ Matlab MP3 PNG multiplot v0.4
 
 ####*create .png waveform colored graphs from .mp3 files in Matlab*
 
- Copyright (C) 2013 Gael Abadin<br/>
+ Copyright (C) 2014 Gael Abadin<br/>
  License: [MIT Expat](https://github.com/elcodedocle/matlabmp3pngmultiplot/blob/master/LICENSE)
 
  ![PNG image generated using mp3pngmultiplot](http://i.imgur.com/QOChM0t.png "This is a png image generated from multiple mp3 sources using mp3pngmultiplot Matlab tool")
