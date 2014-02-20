@@ -6,7 +6,7 @@ Matlab MP3 PNG multiplot v. 0.3
  Copyright (C) 2013 Gael Abadin<br/>
  License: [MIT Expat](https://github.com/elcodedocle/matlabmp3pngmultiplot/blob/master/LICENSE)
 
- ![PNG image generated using mp3pngmultiplot](http://imgur.com/QOChM0t "This is a png image generated from multiple mp3 sources using mp3pngmultiplot Matlab tool")
+ ![PNG image generated using mp3pngmultiplot](http://i.imgur.com/QOChM0t.png "This is a png image generated from multiple mp3 sources using mp3pngmultiplot Matlab tool")
 
  
 ##Usage example:
