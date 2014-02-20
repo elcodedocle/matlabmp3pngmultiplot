@@ -47,9 +47,9 @@ see `help mp3pngmultiplot` for help; follow [this link](http://www.mathworks.com
 
 ##Acknowledgements
 
-The LAME developer team.
+* The LAME developers team
 
-Dan Ellis for his nice mp3readwrite cross platform LAME wrapper library for Matlab.
+* Dan Ellis for his nice mp3readwrite cross platform LAME wrapper library for Matlab
 
 ##Donations
 
