@@ -39,13 +39,13 @@ mp3pngmultiplot (filenames, outputfilename, PaperUnits, PaperSize, PaperPosition
 
 see `help mp3pngmultiplot` for help; follow [this link](http://www.mathworks.com/help/matlab/ref/figure_props.html) for more info on PaperUnits, PaperSize, PaperPosition and PaperOrientation figure parameters affecting the figure display and size of the generated png.
 
-###History
+##History
 
 * v0.1 First prototype
 * v0.2 Added different colors for each waveform plot
 * v0.3 + support for png output sizing using optional graph dimension parameters, + fix graph color matches background color, + > 8 different waveform graph colors
 
-###Acknowledgements
+##Acknowledgements
 
 The LAME developer team.
 
