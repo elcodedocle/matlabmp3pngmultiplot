@@ -1,5 +1,5 @@
-Matlab MP3 PNG multiplot v. 0.3
-===============================
+Matlab MP3 PNG multiplot v0.3
+=============================
 
 ####*create .png waveform colored graphs from .mp3 files in Matlab*
 
